@@ -45,11 +45,6 @@ p {
     margin-top: 10px;
 }
 
-label
-{
-    color: #1572a4;
-}
-
 @font-face {
     font-family: uwu;
     src: url(font/Clydesdale-Light.ttf);
@@ -60,9 +55,9 @@ label
     src: url(font/Clydesdale-Medium.ttf);
 }
 
-#update
-{
-    color: #000;
+@font-face {
+    font-family: ewe;
+    src: url(font/BAKSHEESHBold.TTF);
 }
 
 #container {
@@ -88,7 +83,6 @@ label
 {
     display: flex;
     justify-content: center;
-    color: #000;
 }
 
 .barra {
@@ -168,4 +162,16 @@ label
 .a 
 {
     height: 300px;
+}
+
+.content label h1
+{
+    color: #1572a4;
+}
+
+.content label h2
+{
+    font-size: 20px;
+    font-family: ewe;
+    color: #000;
 }
