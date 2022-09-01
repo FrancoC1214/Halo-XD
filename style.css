@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: uwu;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.379);
+    color: #fff;
+    position: absolute;
+}
+
+nav {
+    margin-right: 345px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    overflow: scroll;
+}
+
+section {
+    height: 675px;
+    width: 100%;
+    align-items: flex-end;
+    color: #fff;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: owo;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+label
+{
+    color: #1572a4;
+}
+
+@font-face {
+    font-family: uwu;
+    src: url(font/Clydesdale-Light.ttf);
+}
+
+@font-face {
+    font-family: owo;
+    src: url(font/Clydesdale-Medium.ttf);
+}
+
+#update
+{
+    color: #000;
+}
+
+#container {
+    margin-left: 20%;
+    display: flex;
+    align-items: center;
+}
+
+#container-2 {
+    background-image: url(img/banner.jpg);
+    background-repeat: no-repeat;
+    height: 605px;
+    width: 100%;
+}
+
+#container-3 {
+    margin-left: 378px;
+    align-items: center;
+    justify-content: center;
+}
+
+#container-4
+{
+    display: flex;
+    justify-content: center;
+    color: #000;
+}
+
+.barra {
+    margin-left: 35px;
+    font-family: owo;
+}
+
+.logo {
+    height: 30px;
+    width: 150px;
+}
+
+.box {
+    position: relative;
+    top: 410px;
+    left: 375px;
+    width: 1000px;
+}
+
+.xob,
+.xob-2 {
+    width: 208px;
+    height: 45px;
+    border-radius: 0%;
+    background-color: #1572a4;
+    color: #fff;
+    font-size: 35px;
+    font-family: owo;
+}
+
+.xob-2 {
+    margin-left: 10px;
+}
+
+.lupa {
+    margin-top: 3px;
+    margin-right: 40px;
+}
+
+.sing {
+    background-color: transparent;
+    color: #fff;
+    border-color: transparent;
+    font-size: 20px;
+}
+
+.img-1,
+.img-2,
+.img-3 {
+    width: 334px;
+}
+
+.img-2,
+.img-3 {
+    margin-left: 50px;
+}
+
+.footers
+{
+    display: flex;
+}
+
+.footer, .footer-2, .footer-3 {
+    color: #1572a4;
+}
+
+.footer-2
+{
+    margin-left: 286px;
+}
+
+.footer-3
+{
+    margin-left: 323px;
+}
+
+.a 
+{
+    height: 300px;
+}
