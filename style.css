@@ -173,5 +173,10 @@ p {
 {
     font-size: 20px;
     font-family: ewe;
-    color: #000;
+    color: rgba(0, 0, 0, 0.678);
+}
+
+.content label p
+{
+    color: rgba(0, 0, 0, 0.603);
 }
